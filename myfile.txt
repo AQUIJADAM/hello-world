@@ -3,3 +3,5 @@ have a nice day:
 
 This is another test text.
 Probando...
+
+Aqui estuvo Ricardo.
