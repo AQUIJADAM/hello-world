@@ -1,1 +1,108 @@
-Adding Ip ranges to WTL office
+
+#### IP Block
+
+<code>10.84.0.0/16</code>
+
+#### Internet
+
+<table>
+  <thead>
+    <tr><th>Name</th><th>Speed</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="/kitchener/fibrenoire.md">Fibrenoire</a></td><td><code>1Gbps</code></td></tr>
+    <tr><td><a href="/kitchener/zayo.md">Zayo</a></td><td><code>200Mbps</code></td></tr>
+  </tbody>
+</table>
+
+#### Equipment
+
+<table>
+  <thead>
+    <tr><th>Name</th><th>Floor</th><th>Config</th><th>Hosts</th><th>IP Addresses</th></tr>
+  </thead>
+  <tbody>  
+    <tr><td><code>gw00</code></td><td>3rd</td><td>config</td><td><code>gw00.waterloo.shopify.com</code><br/><br/><code>gw00.mgmt.waterloo.shopify.com</code><br/><code>gw00.zayo.waterloo.shopify.com</code><br/><br/><code>gw00.fibrenoire.waterloo.shopify.com</code></td><td><code>10.84.0.1 VIP</code><br/><code>10.84.56.1 ACCESS</code><br/><code>10.84.0.60</code><br/><code>10.84.56.60</code><br/><code>1.1.1.5</code><br/><code>206.222.67.22 VIP</code><br/><code>1.1.1.1</code><br/><code>70.35.217.14 VIP</code></td></tr>
+    <tr><td><code>gw01</code></td><td>3rd</td><td>config</td><td><code>gw01.waterloo.shopify.com</code><br/><br/><code>gw01.mgmt.waterloo.shopify.com</code><br/><code>gw01.zayo.waterloo.shopify.com</code><br/><br/><code>gw01.fibrenoire.waterloo.shopify.com</code></td><td><code>10.84.0.1 VIP</code><br/><code>10.84.0.61</code><br/><code>10.84.56.61</code><br/><code>1.1.1.2</code><br/><code>206.222.67.22 VIP</code><br/><code>1.1.1.6</code><br/><code>70.35.217.14 VIP</code></td></tr>
+    <tr><td><code>s2svpn</code></td><td>3rd</td><td>config</td><td><code>s2svpn.waterloo.shopify.com</code><br/><br/></td><td><code>10.84.0.5</code><br/><code>10.84.56.205</code><br/><code>10.84.170.5</code><br/></td></tr>
+    <tr><td><code>gw01</code></td><td>3rd</td><td>config</td><td><code>gw01.waterloo.shopify.com</code><br/><br/><code>gw01.mgmt.waterloo.shopify.com</code><br/><code>gw01.zayo.waterloo.shopify.com</code><br/><br/><code>gw01.fibrenoire.waterloo.shopify.com</code></td><td><code>10.84.0.1 VIP</code><br/><code>10.84.0.61</code><br/><code>10.84.56.61</code><br/><code>1.1.1.2</code><br/><code>206.222.67.22 VIP</code><br/><code>1.1.1.6</code><br/><code>70.35.217.14 VIP</code></td></tr>
+    <tr><td><code>s2svpn</code></td><td>3rd</td><td>config</td><td><code>s2svpn.waterloo.shopify.com</code><br/><br/></td><td><code>10.84.0.5</code><br/><code>10.84.56.205</code><br/><code>10.84.170.5</code><br/></td></tr><tr><td><code>core</code></td><td>3rd</td><td><a href="/kitchener/configs/core.waterloo.shopify.com">config</a></td><td><code>core.waterloo.shopify.com</code></td><td><code>10.84.0.2</code><br/><code>10.84.56.2</code><br/></tr>
+<tr><td><code>sw1</code></td><td>1st</td><td><a href="/kitchener/configs/sw1.waterloo.shopify.com">config</a></td><td><code>sw1.waterloo.shopify.com</code></td><td><code>10.84.56.11</code><br/></tr>
+<tr><td><code>sw2</code></td><td>2nd</td><td><a href="/kitchener/configs/sw2.waterloo.shopify.com">config</a></td><td><code>sw2.waterloo.shopify.com</code></td><td><code>10.84.56.12</code><br/></tr>
+<tr><td><code>sw3</code></td><td>3rd</td><td><a href="/kitchener/configs/sw3.waterloo.shopify.com">config</a></td><td><code>sw3.waterloo.shopify.com</code></td><td><code>10.84.56.13</code><br/></tr>  
+<tr><td><code>lvstrm-wtl0057</code></td><td>3rd</td><td><a href="/kitchener/configs/lvstrm-wtl0057.waterloo.shopify.com">config</a></td><td><code>lvstrm-wtl0057.waterloo.shopify.com</code></td><td><code>10.84.56.40</code><br/></tr>       
+<tr><td><code>infra-core</code></td><td>3rd</td><td><a href="/kitchener/configs/infra-core.waterloo.shopify.com">config</a></td><td><code>infra-core.waterloo.shopify.com</code></td><td><code>10.84.56.3</code><br/></tr>
+<tr><td><code>m1</code></td><td>1st</td><td><a href="/kitchener/configs/m1.mgmt.waterloo.shopify.com">config</a></td><td><code>m1.mgmt.waterloo.shopify.com</code></td><td><code>10.84.56.111</code></tr>
+<tr><td><code>m2</code></td><td>2nd</td><td><a href="/kitchener/configs/m2.mgmt.waterloo.shopify.com">config</a></td><td><code>m2.mgmt.waterloo.shopify.com</code></td><td><code>10.84.56.112</code></tr>    
+<tr><td><code>m3</code></td><td>3rd</td><td><a href="/kitchener/configs/m3.mgmt.waterloo.shopify.com">config</a></td><td><code>m3.mgmt.waterloo.shopify.com</code></td><td><code>10.84.56.113</code></tr>
+<tr><td><code>opengear</code></td><td>3rd</td><td><a href="">config</a></td><td><code>oob.waterloo.shopify.com</code></td><td><code>10.84.0.10</code></tr>
+<tr><td><code>wireless1</code></td><td>3rd</td><td><a href="">config</a></td><td><code>wireless1.waterloo.shopify.com</code></td><td><code>10.84.0.22</code><br/><code>10.84.56.22</code></tr>
+<tr><td><code>wireless2</code></td><td>3rd</td><td><a href="">config</a></td><td><code>wireless2.waterloo.shopify.com</code></td><td><code>10.84.0.24</code><br/><code>10.84.56.24</code></tr>
+<tr><td><code>bb8</code></td><td>3rd</td><td><a href="">config</a></td><td><code>bb8.waterloo.shopify.com</code></td><td><code>10.84.0.179</code></tr>
+<tr><td><code>ups1</code></td><td>1st</td><td><a href="">config</a></td><td><code>ups1.waterloo.shopify.com</code></td><td><code>10.84.56.14</code></tr>
+<tr><td><code>ups2</code></td><td>2nd</td><td><a href="">config</a></td><td><code>ups2.waterloo.shopify.com</code></td><td><code>10.84.56.24</code></tr>
+<tr><td><code>ups2av</code></td><td>2nd</td><td><a href="">config</a></td><td><code>ups2av.waterloo.shopify.com</code></td><td><code>10.84.56.25</code></tr>
+<tr><td><code>ups3</code></td><td>3rd</td><td><a href="">config</a></td><td><code>ups3.waterloo.shopify.com</code></td><td><code>10.84.56.34</code></tr>
+<tr><td><code>ups3av</code></td><td>3rd</td><td><a href="">config</a></td><td><code>ups3av.waterloo.shopify.com</code></td><td><code>10.84.56.35</code></tr>
+<tr><td><code>pdu1</code></td><td>1st</td><td><a href="">config</a></td><td><code>pdu1.waterloo.shopify.com</code></td><td><code>10.84.59.11</code></tr>
+<tr><td><code>pdu2</code></td><td>2nd</td><td><a href="">config</a></td><td><code>pdu2.waterloo.shopify.com</code></td><td><code>10.84.59.21</code></tr>
+<tr><td><code>pdu2av</code></td><td>2nd</td><td><a href="">config</a></td><td><code>pdu2av.waterloo.shopify.com</code></td><td><code>10.84.59.22</code></tr>
+<tr><td><code>pdu3</code></td><td>3rd</td><td><a href="">config</a></td><td><code>pdu3.waterloo.shopify.com</code></td><td><code>10.84.59.31</code></tr>
+<tr><td><code>pdu3av</code></td><td>3rd</td><td><a href="">config</a></td><td><code>pdu3av.waterloo.shopify.com</code></td><td><code>10.84.59.32</code></tr>
+<tr><td><code>esxi0</code></td><td>3rd</td><td><a href="">config</a></td><td><code>esxi0.wtl0057.mgmt.net.shopify.io</code></td><td><code>10.84.59.100</code><br><code>10.84.56.101 iDRAC</code></tr>
+<tr><td><code>esxi1</code></td><td>3rd</td><td><a href="">config</a></td><td><code>esxi1.wtl0057.mgmt.net.shopify.io</code></td><td><code>10.84.56.102</code><br><code>10.84.56.103 iDRAC</code></tr>
+<tr><td><code>cameras</code></td><td>3rd</td><td><a href="">config</a></td><td><code>WAT-57-INTEVO</code></td><td><code>10.84.52.30</code><br><code>10.84.52.100</code></tr>
+<tr><td><code>rubydev00</code></td><td>3rd</td><td><a href="">config</a></td><td><code>rubydev00.waterloo.shopify.com</code></td><td><code>10.84.191.220</code></tr>
+<tr><td><code>rubydev01</code></td><td>3rd</td><td><a href="">config</a></td><td><code>rubydev01.waterloo.shopify.com</code></td><td><code>10.84.191.221</code></tr>
+<tr><td><code>barrelhallmacmini</code></td><td>1st</td><td><a href="">config</a></td><td><code>barrelhallmacmini.waterloo.shopify.com</code></td><td><code>10.84.43.253</code></tr>
+<tr><td><code>waterloolivestream</code></td><td>1st</td><td><a href="">config</a></td><td><code>waterloolivestream.waterloo.shopify.com</code></td><td><code>10.84.43.254</code></tr>
+<tr><td><code>Kantech Panel - Loop 01</code></td><td>3rd</td><td><a href="">config</a></td><td><code>WTL-57-L01-0301_SERVER_RM</code></td><td><code>10.84.52.31</code></tr>
+<tr><td><code>Kantech Panel - Loop 02</code></td><td>1st</td><td><a href="">config</a></td><td><code>WTL-57-L02-GND-FIRE_CONTROL_RM</code></td><td><code>10.84.52.11</code></tr>
+
+
+  </tbody>
+</table>
+
+#### Cabling
+
+<table>
+  <thead>
+    <tr><th>Name</th><th>Color</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>access points</td><td>red</td></tr>
+    <tr><td>av</td><td>green</td></tr>
+    <tr><td>console</td><td>gray</td></tr>
+    <tr><td>guest</td><td>blue</td></tr>
+    <tr><td>infrastructure</td><td>purple</td></tr>
+    <tr><td>management</td><td>orange</td></tr>
+    <tr><td>office</td><td>white</td></tr>
+    <tr><td>phones</td><td>yellow</td></tr>
+    <tr><td>security</td><td>black</td></tr>
+  </tbody>
+</table>
+
+#### Subnets
+
+<table>
+  <thead>
+    <tr><th>VLAN</th><th>Name</th><th>Subnets</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>100</td><td><code>office</code></td><td><code>10.84.0.0/20</code></td></tr>
+    <tr><td>110</td><td><code>servers</code></td><td><code>10.84.32.0/22</code></td></tr>
+    <tr><td>120</td><td><code>printers</code></td><td><code>10.84.36.0/22</code></td></tr>
+    <tr><td>130</td><td><code>av</code></td><td><code>10.84.40.0/22</code></td></tr>
+    <tr><td>140</td><td><code>access-points</code></td><td><code>10.84.44.0/22</code></td></tr>
+    <tr><td>150</td><td><code>phones</code></td><td><code>10.84.48.0/22</code></td></tr>
+    <tr><td>160</td><td><code>security</code></td><td><code>10.84.52.0/22</code></td></tr>
+    <tr><td>170</td><td><code>s2svpn</code></td><td><code>10.84.170.0/29</code></td></tr>
+    <tr><td>180</td><td><code>uservpn</code></td><td><code>10.84.180.0/29</code></td></tr>
+    <tr><td>190</td><td><code>dmz</code></td><td><code>10.84.190.0/29</code></td></tr>
+    <tr><td>191</td><td><code>rubydev</code></td><td><code>10.84.191.0/24</code></td></tr>
+    <tr><td></td><td><code>management</code></td><td><code>10.84.56.0/22</code></td></tr>
+    <tr><td>200</td><td><code>guest</code></td><td><code>10.84.64.0/22</code></td></tr>
+    <tr><td>300</td><td><code>cobranet</code></td><td></td></tr>
+    <tr><td>900</td><td><code>rogers</code></td><td></td></tr>
+  </tbody>
+</table>
