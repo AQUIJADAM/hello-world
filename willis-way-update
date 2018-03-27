@@ -1,0 +1,146 @@
+<p><strong>IP Block</strong></p>
+<p><strong><code>10.85.0.0/16</code> </strong></p>
+<p><strong>Internet</strong></p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Speed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fibrenoire</td>
+<td><code>1Gbps</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Equipment</strong></p>
+<table style="width: 370px;">
+<thead>
+<tr>
+<th style="width: 102px;">Name</th>
+<th style="width: 67px;">Floor</th>
+<th style="width: 62px;">Hosts</th>
+<th style="width: 117px;">IP Addresses</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 102px;">GW - VIP</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><span style="font-family: monospace;"><span style="background-color: #bfe6ff;">10.85.56.1</span></span></td>
+</tr>
+<tr>
+<td style="width: 102px;">GW00</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.60</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">GW01</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><span style="font-family: monospace;"><span style="background-color: #bfe6ff;">10.85.56.61</span></span></td>
+</tr>
+<tr>
+<td style="width: 102px;">S2SVPN00</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><span style="font-family: monospace;"><span style="background-color: #bfe6ff;">10.85.56.70</span></span></td>
+</tr>
+<tr>
+<td style="width: 102px;">S2SVPN001</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><span style="font-family: monospace;"><span style="background-color: #bfe6ff;">10.85.56.71</span></span></td>
+</tr>
+<tr>
+<td style="width: 102px;">S2SVPN-VIP</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><span style="font-family: monospace;"><span style="background-color: #bfe6ff;">10.85.56.205</span></span></td>
+</tr>
+<tr>
+<td style="width: 102px;">Core</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.2</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">Sw03</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.3</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">M03</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.113</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">Sw03-avbooth</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;">
+<p><code>10.85.57.13</code></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">M03-avbooth</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.57.113</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">Wireless1</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.20</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">Wireless2</td>
+<td style="width: 67px;">3nd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.21</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">ups3-1</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.34</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">ups3-2</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.35</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">ups3-av</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.56.36</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">pdu3-1</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.59.31</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">pdu3-2</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.59.32</code></td>
+</tr>
+<tr>
+<td style="width: 102px;">pdu3-av</td>
+<td style="width: 67px;">3rd</td>
+<td style="width: 62px;">&nbsp;</td>
+<td style="width: 117px;"><code>10.85.59.33</code></td>
+</tr>
+</tbody>
+</table>
