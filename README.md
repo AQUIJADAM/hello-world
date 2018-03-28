@@ -1,3 +1,3 @@
 # hello-world
-Hola Anto.
-Hola Ricardo
+
+This the first repo

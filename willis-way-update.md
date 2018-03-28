@@ -10,7 +10,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="width: 127px;"><a href="willis-way-update/Fibrenoire.md">Fibrenoire</a></td>
+<td style="width: 127px;"><a href="/hello-world/willis-way-update/Fibrenoire.md" target="_blank" rel="noopener">Fibrenoire</a></td>
 <td style="width: 184px;">1 Gbps</td>
 </tr>
 </tbody>
