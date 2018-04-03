@@ -1,5 +1,5 @@
-<blockquote>
-<p><span style="font-size: 11pt;">#### IP Block 10.11.0.0/16&nbsp;#### Internet</span></p>
+<h2><strong><span style="font-size: 11pt;">IP Block 10.11.0.0/16</span></strong></h2>
+<h3><strong><span style="font-size: 11pt;">Internet</span></strong></h3>
 <table style="height: 76px;" width="181">
 <thead>
 <tr style="height: 18px;">
@@ -18,7 +18,8 @@
 </tr>
 </tbody>
 </table>
-<p><span style="font-size: 11pt;">#### Equipment</span></p>
+<p><span style="font-size: 11pt;"></span></p>
+<h4><strong><span style="font-size: 11pt;">Equipment</span></strong></h4>
 <table style="width: 693px;">
 <thead>
 <tr style="height: 21px;">
@@ -198,111 +199,3 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><span style="font-size: 11pt;">#### Subnets</span></p>
-<table>
-<thead>
-<tr>
-<th><span style="font-size: 11pt;">VLAN</span></th>
-<th><span style="font-size: 11pt;">Name</span></th>
-<th><span style="font-size: 11pt;">Subnets</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span style="font-size: 11pt;">100</span></td>
-<td><span style="font-size: 11pt;"><code>office</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.0.0/20</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">110</span></td>
-<td><span style="font-size: 11pt;"><code>servers</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.32.0/22</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">120</span></td>
-<td><span style="font-size: 11pt;"><code>printers</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.36.0/22</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">130</span></td>
-<td><span style="font-size: 11pt;"><code>av</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.40.0/22</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">140</span></td>
-<td><span style="font-size: 11pt;"><code>access-points</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.44.0/22</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">150</span></td>
-<td><span style="font-size: 11pt;"><code>phones</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.48.0/22</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">160</span></td>
-<td><span style="font-size: 11pt;"><code>security</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.52.0/22</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">170</span></td>
-<td><span style="font-size: 11pt;"><code>s2svpn</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.170.0/24</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">180</span></td>
-<td><span style="font-size: 11pt;"><code>uservpn</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.180.0/24</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">190</span></td>
-<td><span style="font-size: 11pt;"><code>dmz</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.190.0/24</code></span></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td><span style="font-size: 11pt;"><code>management</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.56.0/22</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">200</span></td>
-<td><span style="font-size: 11pt;"><code>guest</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.64.0/22</code></span></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td><span style="font-size: 11pt;"><code>vpn</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.224.0/24</code></span></td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">300</span></td>
-<td><span style="font-size: 11pt;"><code>cobranet</code></span></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td><span style="font-size: 11pt;">900</span></td>
-<td><span style="font-size: 11pt;"><code>allstream</code></span></td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-size: 11pt;">#### IP Block Reservation</span></p>
-<table>
-<thead>
-<tr>
-<th><span style="font-size: 11pt;">VLAN</span></th>
-<th><span style="font-size: 11pt;">Name</span></th>
-<th><span style="font-size: 11pt;">Range</span></th>
-<th><span style="font-size: 11pt;">Propose</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span style="font-size: 11pt;">130</span></td>
-<td><span style="font-size: 11pt;"><code>av</code></span></td>
-<td><span style="font-size: 11pt;"><code>10.11.40.150 to 10.11.40.159</code></span></td>
-<td><span style="font-size: 11pt;"><code>Requested by Solotech for VoIP Cards</code></span></td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</blockquote>
