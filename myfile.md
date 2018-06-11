@@ -1,7 +1,7 @@
-this is some text
+##this is some text
 have a nice day:
 
 This is another test text.
 Probando...
 
-Practicando Git! me encanta
+Practicando Git! *me encanta*
