@@ -44,7 +44,7 @@
 <tbody>
 <tr>
 <td>Circuit number</td>
-<td>SHOP01-C3&nbsp;</td>
+<td>> -   SHOP01-C4&nbsp;</td>
 </tr>
 <tr>
 <td>Equipment</td>
@@ -191,5 +191,5 @@
 </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzAyNzA4MiwxMjE1Mjc2MjI3XX0=
+eyJoaXN0b3J5IjpbNjIxMzA2ODUwLDEyMTUyNzYyMjddfQ==
 -->
