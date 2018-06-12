@@ -44,11 +44,11 @@
 <tbody>
 <tr>
 <td>Circuit number</td>
-<td>> -   SHOP01-C4&nbsp;</td>
+<td>SHOP01-C4&nbsp;</td>
 </tr>
 <tr>
 <td>Equipment</td>
-<td>GT1926</td>
+<td></td>
 </tr>
 <tr>
 <td>Port</td>
@@ -191,5 +191,5 @@
 </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMzA2ODUwLDEyMTUyNzYyMjddfQ==
+eyJoaXN0b3J5IjpbMTE2MzQzOTU4MiwxMjE1Mjc2MjI3XX0=
 -->
