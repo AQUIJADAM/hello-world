@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td>Address range</td>
-<td>45.61.10.10 - 45.61.1&nbsp;</td>
+<td>173.242.186.2 - 173.242.186.6&nbsp;</td>
 </tr>
 <tr>
 <td>Netmask</td>
@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td>Gateway</td>
-<td>45.61.10.9</td>
+<td>173.242.186.1</td>
 </tr>
 </tbody>
 </table>
@@ -191,5 +191,5 @@
 </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQwMTAyODYsMTIxNTI3NjIyN119
+eyJoaXN0b3J5IjpbMTAwNjE5OTA0OCwxMjE1Mjc2MjI3XX0=
 -->
