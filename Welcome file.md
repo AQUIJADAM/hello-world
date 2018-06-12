@@ -48,7 +48,7 @@
 </tr>
 <tr>
 <td>Equipment</td>
-<td></td>
+<td>GT2072</td>
 </tr>
 <tr>
 <td>Port</td>
@@ -191,5 +191,5 @@
 </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzQzOTU4MiwxMjE1Mjc2MjI3XX0=
+eyJoaXN0b3J5IjpbMTM2MTU2NTA5MiwxMjE1Mjc2MjI3XX0=
 -->
