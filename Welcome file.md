@@ -61,11 +61,11 @@
 <tbody>
 <tr>
 <td>Network</td>
-<td>45.61.10.8/29</td>
+<td>173.242.186.0/29</td>
 </tr>
 <tr>
 <td>Address range</td>
-<td>45.61.10.10 - 45.61.10.14&nbsp;</td>
+<td>45.61.10.10 - 45.61.1&nbsp;</td>
 </tr>
 <tr>
 <td>Netmask</td>
@@ -191,5 +191,5 @@
 </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTU2NTA5MiwxMjE1Mjc2MjI3XX0=
+eyJoaXN0b3J5IjpbLTE3OTQwMTAyODYsMTIxNTI3NjIyN119
 -->
