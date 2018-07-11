@@ -58,6 +58,6 @@
 ### Services
 
 | Name |  Hostname | IP address |
-|--|--|--|--|
+|--|--|--|
 |DHCP|||
 |Icinga||||
