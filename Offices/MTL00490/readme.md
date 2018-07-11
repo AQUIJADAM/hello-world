@@ -53,11 +53,5 @@
 ### Servers
 | Name |  Floor	| Hostname | IP address |
 |--|--|--|--|
-|esxi0|3rd||||
-
-### Services
-
-| Name |  Hostname | IP address |
-|--|--|--|--|
-|DHCP|||
-|Icinga||||
+|esxi0|3rd|||
+|Icinga2|||||
