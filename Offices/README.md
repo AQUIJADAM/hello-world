@@ -1,4 +1,4 @@
-Information about equipments, IP addresses and ISPs on Shopify Offices 
+Information about equipments, IP addresses and ISPs
 
 
 This is a test ABC$^1$

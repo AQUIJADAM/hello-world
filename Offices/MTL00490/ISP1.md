@@ -13,9 +13,9 @@
 
 
 ## Circuit ID  
-**Zayo:** DIA/333333//ZYO
+**Zayo:** 
 
-**Allstream:** 03/LZXX/000000/UCN/00
+**Allstream:**
 
 ## Hardware Connection
 **Download Speed:** 1000 Mbps
@@ -27,4 +27,4 @@
 **Speed:** Auto
 
 ## WAN IPv4
-**Network:** 
+**Network:**
