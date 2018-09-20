@@ -1,4 +1,4 @@
-## IP Block 10.XX.0.0/16
+## IP Block xx.yy.0.0/16
 
 ### Internet
 
